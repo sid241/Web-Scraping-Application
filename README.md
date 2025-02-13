@@ -1,9 +1,4 @@
 # Web-Scraping-Application
-Here's a suitable **README.md** for your project:  
-
----
-
-### **Web Scraping Summarizer**  
 
 This Python script scrapes text from a webpage and summarizes it using OpenAI's GPT-3.  
 
